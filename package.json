@@ -1,6 +1,6 @@
 {
   "name": "covid-rates",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Package to get easily COVID-19 information by country, abbreviation and continent,  on confirmed cases, vaccine- and death rates from https://covid-api.mmediagroup.fr/v1 ",
   "main": "index.js",
   "scripts": {
