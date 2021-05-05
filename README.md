@@ -1,6 +1,6 @@
 # COVID-19 rates
 
-Package to get easily COVID-19 information by country, abbreviation and continent, on confirmed cases, vaccine- and death rates from https://covid-api.mmediagroup.fr/v1 .
+Package to get easily COVID-19 information by country, abbreviation and continent, on confirmed cases, vaccine- and death rates from https://github.com/M-Media-Group/Covid-19-API .
 
 ## Installation
 

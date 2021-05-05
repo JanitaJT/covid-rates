@@ -1,13 +1,13 @@
 {
   "name": "covid-rates",
-  "version": "1.0.3",
-  "description": "Package to get easily COVID-19 information by country, abbreviation and continent,  on confirmed cases, vaccine- and death rates from https://covid-api.mmediagroup.fr/v1 ",
+  "version": "1.0.4",
+  "description": "Package to get easily COVID-19 information by country, abbreviation and continent,  on confirmed cases, vaccine- and death rates from https://github.com/M-Media-Group/Covid-19-API ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "COVID-19, vaccine, confirmed, deaths, virus, cases, rates"
+    "COVID-19", "vaccine", "confirmed", "deaths", "virus", "cases", "rates"
   ],
   "author": "Janita Toivola",
   "license": "MIT",
