@@ -6,7 +6,7 @@ Package to get easily COVID-19 information by country, abbreviation and continen
 
 ```bash
 	$ npm install covid-rates
-	Const rates = require(‘covid-rates’)
+	const rates = require(‘covid-rates’)
 ```
 
 ## Methods
